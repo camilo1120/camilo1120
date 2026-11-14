@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="#proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
-  <a href="#reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
+  <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
+  <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
   <a href="assets/terminal-poster.png">Ficha sin movimiento</a>
 </p>
 
