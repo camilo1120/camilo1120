@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/terminal-mobile.png" />
-    <img src="assets/terminal-profile.gif" alt="Ficha terminal animada de Camilo Álvarez: retrato ASCII, estudiante de Mercadeo y Publicidad en UDES, Creative Technologist, branding, BTL y producto digital." width="100%" />
+    <source media="(max-width: 600px)" srcset="assets/terminal-mobile-cartoon.png" />
+    <img src="assets/terminal-profile-cartoon.gif" alt="Ficha terminal de Camilo Álvarez con el retrato cartoon que él proporcionó. Estudiante de Mercadeo y Publicidad en UDES, Creative Technologist, branding, BTL y producto digital." width="100%" />
   </picture>
 </div>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/terminal-poster.png">Ficha sin movimiento</a>
+  <a href="assets/terminal-poster-cartoon.png">Ficha sin movimiento</a>
 </p>
 
 <h1 align="center">Camilo Álvarez</h1>
@@ -21,6 +21,8 @@ Soy **Camilo Andrés Álvarez Morera**. Conecto mi formación en mercadeo y publ
 Me identifico como **vibecoder**: uso IA para explorar y construir mientras aprendo. Me interesa el recorrido entre un concepto creativo y algo que una persona pueda ver, recorrer o probar.
 
 **Mi punto de encuentro:** branding, comunicación visual, experiencias BTL y tecnología creativa.
+
+<p align="center"><img src="assets/kirby-flight.gif" alt="Kirby en pixel art volando en una estrella dorada por un pequeño escenario espacial. Animación decorativa de fan art." width="100%" /></p>
 
 ## Proyectos para explorar
 
@@ -50,6 +52,15 @@ Experimento web disponible para explorar. Su ficha de concepto, proceso y partic
 
 </details>
 
+<details>
+<summary><strong>Estudio visual / Lechonas Chevo</strong></summary>
+
+Una muestra de identidad visual de mi selección de trabajos: logotipo, paleta, tipografía y aplicaciones de marca. Las aplicaciones se presentan como mockups; no se atribuyen resultados comerciales a esta pieza.
+
+<img src="assets/chevo-brandboard.png" alt="Brandboard Lechonas Chevo: símbolo de cerdito, paleta negra crema y naranja, tipografía y mockups de aplicaciones." width="600" />
+
+</details>
+
 ## Reconocimientos
 
 Como integrante de **Vibra Creativa**:
@@ -68,4 +79,7 @@ En los repositorios puedes encontrar HTML, CSS y JavaScript. Cada proyecto tiene
 ---
 
 **¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/).
+
+<sub>Rincón pixel: fan art decorativo de Kirby, sin afiliación con Nintendo ni HAL Laboratory. El retrato cartoon fue proporcionado por Camilo.</sub>
+
 
