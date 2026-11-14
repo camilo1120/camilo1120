@@ -1,0 +1,71 @@
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/terminal-mobile.png" />
+    <img src="assets/terminal-profile.gif" alt="Ficha terminal animada de Camilo Álvarez: retrato ASCII, estudiante de Mercadeo y Publicidad en UDES, Creative Technologist, branding, BTL y producto digital." width="100%" />
+  </picture>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="#proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
+  <a href="#reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
+  <a href="assets/terminal-poster.png">Ficha sin movimiento</a>
+</p>
+
+<h1 align="center">Camilo Álvarez</h1>
+<p align="center"><strong>Creative Technologist · Mercadeo & Publicidad · UDES</strong><br />
+Del concepto de marca a la experiencia interactiva.</p>
+
+Soy **Camilo Andrés Álvarez Morera**. Conecto mi formación en mercadeo y publicidad con identidad visual, experiencias interactivas y prototipos digitales.
+
+Me identifico como **vibecoder**: uso IA para explorar y construir mientras aprendo. Me interesa el recorrido entre un concepto creativo y algo que una persona pueda ver, recorrer o probar.
+
+**Mi punto de encuentro:** branding, comunicación visual, experiencias BTL y tecnología creativa.
+
+## Proyectos para explorar
+
+| Proyecto | Concepto / formato | Explorar |
+| :--- | :--- | :--- |
+| **01 · Flor Export Challenge** | Aprender jugando. Cuatro decisiones y un recorrido interactivo sobre exportación de flores. | [Jugar ↗](https://camilo1120.github.io/flor-export-challenge/) · [Código](https://github.com/camilo1120/flor-export-challenge) |
+| **02 · IKAR** | Presencia de marca. Sitio corporativo de IKAR Soluciones en Construcción. | [Proyecto ↗](https://github.com/camilo1120/IKAR) |
+| **03 · Rosa Origen** | Prototipo móvil. Consulta de lotes, QR de muestra e inspección visual de rosas. | [Demo ↗](https://camilo1120.github.io/rosa-origen-pwa/) · [Repositorio](https://github.com/camilo1120/rosa-origen-pwa) |
+
+<details>
+<summary>Antes de explorar / alcance de las demos</summary>
+
+**Flor Export Challenge:** experiencia didáctica; no sustituye orientación técnica o normativa de exportación. Créditos de imágenes en su repositorio.
+
+**IKAR:** código y documentación disponibles. Aún no se ha confirmado una URL pública de demo.
+
+**Rosa Origen:** evaluación visual orientativa y heurística; no es un modelo de calidad validado ni un sistema de control comercial. El repositorio contiene la compilación estática del frontend. Fuente completa y backend están fuera de ese repositorio; cámara y NFC dependen de permisos y compatibilidad.
+
+</details>
+
+<details>
+<summary><strong>En el laboratorio / AMPER-PACKMAN-LATA</strong></summary>
+
+Experimento web disponible para explorar. Su ficha de concepto, proceso y participación está en preparación.
+
+[Abrir demo](https://camilo1120.github.io/AMPER-PACKMAN-LATA/) · [Ver repositorio](https://github.com/camilo1120/AMPER-PACKMAN-LATA)
+
+</details>
+
+## Reconocimientos
+
+Como integrante de **Vibra Creativa**:
+
+- **2024 — Gran Prix Plata, categoría Junior.** Premios Élite. [Resultado del equipo · UDES](https://udes.edu.co/premios-elite/noticias/exito-total-en-la-23-edicion-de-los-premios-elite-de-la-udes-reconocimiento-a-la-excelencia-creativa-con-alkosto-y-ktronix).
+- **2025 — Mención especial BTL, categoría Mundial.** Premios Élite. [Cobertura del reconocimiento](https://www.vanguardia.com/informes-comerciales/2025/10/22/alkosto-y-ktronix-apoyan-el-talento-creativo-de-los-jovenes-en-los-premios-elite-2025/).
+
+## Lo que estoy explorando
+
+**Marca:** concepto, identidad y narrativa visual.  
+**Experiencia:** interacción, juego y propuestas BTL.  
+**Producto:** prototipos web y procesos creativos asistidos por IA.
+
+En los repositorios puedes encontrar HTML, CSS y JavaScript. Cada proyecto tiene su propio alcance; una demo muestra una exploración, no implica resultados comerciales.
+
+---
+
+**¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/).
+
