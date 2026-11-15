@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/terminal-mobile-cartoon.png" />
-    <img src="assets/terminal-profile-cartoon.gif" alt="Ficha terminal de Camilo Álvarez con el retrato cartoon que él proporcionó. Estudiante de Mercadeo y Publicidad en UDES, Creative Technologist, branding, BTL y producto digital." width="100%" />
+    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile.gif" />
+    <img src="assets/face-kirby-desktop.gif" alt="Camilo en movimiento: el rig original de su portafolio anima mirada, cejas y parpadeo; el rostro se transforma a ASCII y Kirby vuela por detrás. Estudiante de Mercadeo y Publicidad en UDES y Creative Technologist." width="100%" />
   </picture>
 </div>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/terminal-poster-cartoon.png">Ficha sin movimiento</a>
+  <a href="assets/face-kirby-poster.png">Ficha sin movimiento</a>
 </p>
 
 <h1 align="center">Camilo Álvarez</h1>
@@ -21,8 +21,6 @@ Soy **Camilo Andrés Álvarez Morera**. Conecto mi formación en mercadeo y publ
 Me identifico como **vibecoder**: uso IA para explorar y construir mientras aprendo. Me interesa el recorrido entre un concepto creativo y algo que una persona pueda ver, recorrer o probar.
 
 **Mi punto de encuentro:** branding, comunicación visual, experiencias BTL y tecnología creativa.
-
-<p align="center"><img src="assets/kirby-flight.gif" alt="Kirby en pixel art volando en una estrella dorada por un pequeño escenario espacial. Animación decorativa de fan art." width="100%" /></p>
 
 ## Proyectos para explorar
 
