@@ -1,34 +1,31 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile.gif" />
-    <img src="assets/face-kirby-desktop.gif" alt="Camilo en movimiento: el rig original de su portafolio anima mirada, cejas y parpadeo; el rostro se transforma a ASCII y Kirby vuela por detrás. Estudiante de Mercadeo y Publicidad en UDES y Creative Technologist." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/face-kirby-poster-v2.png" />
+    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile-v2.gif" />
+    <img src="assets/face-kirby-desktop-v2.gif" alt="El rostro de Camilo parpadea y cambia a caracteres ASCII. Detrás pasa Kirby en pixel art sobre una estrella dorada." width="100%" />
   </picture>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/face-kirby-poster.png">Ficha sin movimiento</a>
+  <a href="assets/face-kirby-poster-v2.png">Ficha sin movimiento</a>
 </p>
 
 <h1 align="center">Camilo Álvarez</h1>
-<p align="center"><strong>Creative Technologist · Mercadeo & Publicidad · UDES</strong><br />
+<p align="center"><strong>Creative Technologist · Estudiante de Mercadeo y Publicidad en UDES</strong><br />
 Del concepto de marca a la experiencia interactiva.</p>
 
 Soy **Camilo Andrés Álvarez Morera**. Conecto mi formación en mercadeo y publicidad con identidad visual, experiencias interactivas y prototipos digitales.
 
 Me identifico como **vibecoder**: uso IA para explorar y construir mientras aprendo. Me interesa el recorrido entre un concepto creativo y algo que una persona pueda ver, recorrer o probar.
 
-**Mi punto de encuentro:** branding, comunicación visual, experiencias BTL y tecnología creativa.
-
 ## Proyectos para explorar
 
-| Proyecto | Concepto / formato | Explorar |
-| :--- | :--- | :--- |
-| **01 · Flor Export Challenge** | Aprender jugando. Cuatro decisiones y un recorrido interactivo sobre exportación de flores. | [Jugar ↗](https://camilo1120.github.io/flor-export-challenge/) · [Código](https://github.com/camilo1120/flor-export-challenge) |
-| **02 · IKAR** | Presencia de marca. Sitio corporativo de IKAR Soluciones en Construcción. | [Proyecto ↗](https://github.com/camilo1120/IKAR) |
-| **03 · Rosa Origen** | Prototipo móvil. Consulta de lotes, QR de muestra e inspección visual de rosas. | [Demo ↗](https://camilo1120.github.io/rosa-origen-pwa/) · [Repositorio](https://github.com/camilo1120/rosa-origen-pwa) |
+- **Flor Export Challenge** · Juego didáctico con cuatro decisiones sobre exportación de flores. [Jugar](https://camilo1120.github.io/flor-export-challenge/) · [Ver código](https://github.com/camilo1120/flor-export-challenge)
+- **IKAR** · Sitio corporativo para una constructora. [Ver código y documentación](https://github.com/camilo1120/IKAR)
+- **Rosa Origen** · Prototipo móvil de consulta de lotes e inspección visual orientativa mediante heurísticas. [Abrir demo](https://camilo1120.github.io/rosa-origen-pwa/) · [Ver compilación estática](https://github.com/camilo1120/rosa-origen-pwa)
 
 <details>
 <summary>Antes de explorar / alcance de las demos</summary>
@@ -40,6 +37,12 @@ Me identifico como **vibecoder**: uso IA para explorar y construir mientras apre
 **Rosa Origen:** evaluación visual orientativa y heurística; no es un modelo de calidad validado ni un sistema de control comercial. El repositorio contiene la compilación estática del frontend. Fuente completa y backend están fuera de ese repositorio; cámara y NFC dependen de permisos y compatibilidad.
 
 </details>
+
+## Lenguajes y herramientas
+
+[![HTML, CSS y JavaScript](assets/lenguajes-web.svg)](https://github.com/camilo1120/flor-export-challenge)
+
+Uso **HTML** para estructurar sitios, **CSS** para diseñar la interfaz y **JavaScript** para crear interacciones. Puedes ver las tres en [Flor Export Challenge](https://github.com/camilo1120/flor-export-challenge) y [AMPER-PACKMAN-LATA](https://github.com/camilo1120/AMPER-PACKMAN-LATA).
 
 <details>
 <summary><strong>En el laboratorio / AMPER-PACKMAN-LATA</strong></summary>
@@ -72,11 +75,9 @@ Como integrante de **Vibra Creativa**:
 **Experiencia:** interacción, juego y propuestas BTL.  
 **Producto:** prototipos web y procesos creativos asistidos por IA.
 
-En los repositorios puedes encontrar HTML, CSS y JavaScript. Cada proyecto tiene su propio alcance; una demo muestra una exploración, no implica resultados comerciales.
-
 ---
 
-**¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/alvarez-morera-camilo-andres-ba32403b1/).
+**¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/).
 
 <sub>Rincón pixel: fan art decorativo de Kirby, sin afiliación con Nintendo ni HAL Laboratory. El retrato cartoon fue proporcionado por Camilo.</sub>
 
