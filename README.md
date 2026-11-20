@@ -4,9 +4,9 @@ Marca, BTL y prototipado digital.</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/face-kirby-poster-v2.png" />
-    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile-v2.gif" />
-    <img src="assets/face-kirby-desktop-v2.gif" alt="El rostro de Camilo parpadea y cambia a caracteres ASCII. Detrás pasa Kirby en pixel art sobre una estrella dorada." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/face-kirby-poster-v3.png" />
+    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile-v3.gif" />
+    <img src="assets/face-kirby-desktop-v3.gif" alt="El rostro de Camilo parpadea y cambia a caracteres ASCII mientras una estrella pixel cruza detrás." width="100%" />
   </picture>
 </div>
 
@@ -14,7 +14,7 @@ Marca, BTL y prototipado digital.</p>
   <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/face-kirby-poster-v2.png">Ficha sin movimiento</a>
+  <a href="assets/face-kirby-poster-v3.png">Ficha sin movimiento</a>
 </p>
 
 Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Creative Technologist. Uso IA generativa para explorar conceptos y acelerar prototipos web. Me identifico con el *vibe coding*: parto de una idea, construyo con asistencia de IA e itero sobre lo que puedo mostrar o probar.
@@ -84,6 +84,6 @@ Como integrante de **Vibra Creativa**:
 
 **¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/).
 
-<sub>Rincón pixel: fan art decorativo de Kirby, sin afiliación con Nintendo ni HAL Laboratory. El retrato cartoon fue proporcionado por Camilo.</sub>
+<sub>Retrato cartoon proporcionado por Camilo. Animación de la ficha y estrella de pixel art creadas para este perfil.</sub>
 
 
