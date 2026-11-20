@@ -1,3 +1,7 @@
+<h1 align="center">Camilo Álvarez</h1>
+<p align="center"><strong>Mercadeo y Publicidad en UDES · IA generativa aplicada a marketing</strong><br />
+Marca, BTL y prototipado digital.</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/face-kirby-poster-v2.png" />
@@ -13,13 +17,7 @@
   <a href="assets/face-kirby-poster-v2.png">Ficha sin movimiento</a>
 </p>
 
-<h1 align="center">Camilo Álvarez</h1>
-<p align="center"><strong>Creative Technologist · Estudiante de Mercadeo y Publicidad en UDES</strong><br />
-Del concepto de marca a la experiencia interactiva.</p>
-
-Soy **Camilo Andrés Álvarez Morera**. Conecto mi formación en mercadeo y publicidad con identidad visual, experiencias interactivas y prototipos digitales.
-
-Me identifico como **vibecoder**: uso IA para explorar y construir mientras aprendo. Me interesa el recorrido entre un concepto creativo y algo que una persona pueda ver, recorrer o probar.
+Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Creative Technologist. Uso IA generativa para explorar conceptos y acelerar prototipos web. Me identifico con el *vibe coding*: parto de una idea, construyo con asistencia de IA e itero sobre lo que puedo mostrar o probar.
 
 ## Proyectos para explorar
 
@@ -42,7 +40,14 @@ Me identifico como **vibecoder**: uso IA para explorar y construir mientras apre
 
 [![HTML, CSS y JavaScript](assets/lenguajes-web.svg)](https://github.com/camilo1120/flor-export-challenge)
 
-Uso **HTML** para estructurar sitios, **CSS** para diseñar la interfaz y **JavaScript** para crear interacciones. Puedes ver las tres en [Flor Export Challenge](https://github.com/camilo1120/flor-export-challenge) y [AMPER-PACKMAN-LATA](https://github.com/camilo1120/AMPER-PACKMAN-LATA).
+- **HTML, CSS y JavaScript** para interfaces e interacción. [Flor Export Challenge](https://github.com/camilo1120/flor-export-challenge) · [AMPER](https://github.com/camilo1120/AMPER-PACKMAN-LATA)
+- **Python, PowerShell y scripts Batch** en el repositorio de [IKAR](https://github.com/camilo1120/IKAR).
+
+## Laboratorio de IA y marketing
+
+- **Automatizaciones y CRM.** Me interesa prototipar el flujo de captura, clasificación y seguimiento de contactos, con revisión humana antes de enviar comunicaciones.
+- **Producto SaaS.** Exploro cómo convertir una tarea repetitiva de marketing en una herramienta web que se pueda probar con datos de ejemplo.
+- **Novedades que sigo.** Skills y automatizaciones de agentes para flujos repetibles, y llamadas a funciones para conectar modelos con herramientas. [Actualizaciones de ChatGPT y Codex](https://learn.chatgpt.com/docs/changelog) · [Documentación de Gemini sobre llamadas a funciones](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tools/function-calling)
 
 <details>
 <summary><strong>En el laboratorio / AMPER-PACKMAN-LATA</strong></summary>
