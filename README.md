@@ -4,10 +4,8 @@ Marca, BTL y prototipado digital.</p>
 
 <div align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/perfil-ascii-mobile.png" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/perfil-ascii-desktop.png" />
-    <source media="(max-width: 600px)" srcset="assets/perfil-ascii-mobile.gif" />
-    <img src="assets/perfil-ascii-desktop.gif" alt="Retrato de Camilo en caracteres ASCII con relieve y rotación suave. Panel al 20 de noviembre de 2026 con seis repositorios públicos y seis lenguajes detectados por GitHub." width="100%" />
+    <source media="(max-width: 600px)" srcset="assets/camilo-luminous-ascii-v2-mobile.gif" />
+    <img src="assets/camilo-luminous-ascii-v2-desktop.gif" alt="Mi rostro reconstruido con caracteres ASCII luminosos, relieve en movimiento y puntos orbitando." width="100%" />
   </picture>
 </div>
 
@@ -15,10 +13,51 @@ Marca, BTL y prototipado digital.</p>
   <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/perfil-ascii-desktop.png">Ficha sin movimiento</a>
+  <a href="assets/camilo-luminous-ascii-v2-desktop.png">Ficha sin movimiento</a>
 </p>
 
 Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Creative Technologist. Uso IA generativa para explorar conceptos y acelerar prototipos web. Me identifico con el *vibe coding*: parto de una idea, construyo con asistencia de IA e itero sobre lo que puedo mostrar o probar.
+
+## Lenguajes y tecnologías
+
+Uso lenguajes y tecnologías con asistencia de IA y vibecoding, según las necesidades de cada proyecto.
+
+<p>
+  <img src="assets/tool-icons/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="assets/tool-icons/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tool-icons/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="assets/tool-icons/html5-original.svg" width="42" height="42" alt="HTML" title="HTML" />
+  <img src="assets/tool-icons/css3-original.svg" width="42" height="42" alt="CSS" title="CSS" />
+  <img src="assets/tool-icons/java-original.svg" width="42" height="42" alt="Java" title="Java" />
+  <img src="assets/tool-icons/c-original.svg" width="42" height="42" alt="C" title="C" />
+  <img src="assets/tool-icons/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
+  <img src="assets/tool-icons/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+  <img src="assets/tool-icons/go-original-wordmark.svg" width="42" height="42" alt="Go" title="Go" />
+  <img src="assets/tool-icons/rust-original.svg" width="42" height="42" alt="Rust" title="Rust" />
+  <img src="assets/tool-icons/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />
+  <img src="assets/tool-icons/ruby-original.svg" width="42" height="42" alt="Ruby" title="Ruby" />
+  <img src="assets/tool-icons/kotlin-original.svg" width="42" height="42" alt="Kotlin" title="Kotlin" />
+  <img src="assets/tool-icons/swift-original.svg" width="42" height="42" alt="Swift" title="Swift" />
+  <img src="assets/tool-icons/dart-original.svg" width="42" height="42" alt="Dart" title="Dart" />
+  <img src="assets/tool-icons/postgresql-original.svg" width="42" height="42" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />
+  <img src="assets/tool-icons/bash-original.svg" width="42" height="42" alt="Bash" title="Bash" />
+  <img src="assets/tool-icons/powershell-original.svg" width="42" height="42" alt="PowerShell" title="PowerShell" />
+</p>
+
+JavaScript · TypeScript · Python · HTML · CSS · Java · C · C++ · C# · Go · Rust · PHP · Ruby · Kotlin · Swift · Dart · SQL · Bash · PowerShell
+
+## Herramientas de IA que uso
+
+<p>
+  <img src="assets/tool-icons/hermesagent.svg" width="52" height="52" alt="Hermes Agent" title="Hermes Agent" />
+  <img src="assets/tool-icons/antigravity-color.svg" width="52" height="52" alt="Antigravity" title="Antigravity" />
+  <img src="assets/tool-icons/codex-color.svg" width="52" height="52" alt="Codex" title="Codex" />
+</p>
+
+**Hermes Agent · Google Antigravity · OpenAI Codex**
+
+<sub>Iconos: [Devicon](https://github.com/devicons/devicon) y [Lobe Icons](https://github.com/lobehub/lobe-icons). [Fuentes y licencias](assets/tool-icons/sources.json).</sub>
+
 
 ## Proyectos para explorar
 
@@ -36,13 +75,6 @@ Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Cr
 **Rosa Origen:** evaluación visual orientativa y heurística; no es un modelo de calidad validado ni un sistema de control comercial. El repositorio contiene la compilación estática del frontend. Fuente completa y backend están fuera de ese repositorio; cámara y NFC dependen de permisos y compatibilidad.
 
 </details>
-
-## Lenguajes y herramientas
-
-[![HTML, CSS y JavaScript](assets/lenguajes-web.svg)](https://github.com/camilo1120/flor-export-challenge)
-
-- **HTML, CSS y JavaScript** para interfaces e interacción. [Flor Export Challenge](https://github.com/camilo1120/flor-export-challenge) · [AMPER](https://github.com/camilo1120/AMPER-PACKMAN-LATA)
-- **Python, PowerShell y scripts Batch** en el repositorio de [IKAR](https://github.com/camilo1120/IKAR).
 
 ## Laboratorio de IA y marketing
 
@@ -85,6 +117,6 @@ Como integrante de **Vibra Creativa**:
 
 **¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/).
 
-<sub>Retrato ASCII a partir de mi fotografía. Panel inspirado en [GitHub Metrics](https://github.com/lowlighter/metrics). La gráfica cuenta en cuántos repositorios públicos aparece cada lenguaje al momento de la consulta.</sub>
+<sub>Retrato animado construido con caracteres a partir de mi fotografía; profundidad aproximada y partículas. Inspiración visual: <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a>.</sub>
 
 

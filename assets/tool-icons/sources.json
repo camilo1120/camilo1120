@@ -1,0 +1,156 @@
+[
+  {
+    "label": "JavaScript",
+    "file": "javascript-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    "source_sha256": "0656ff65fc8eeacda5c78d7f9ffe91ec1eb919db64f56e0b7dcd460af4bbd36c"
+  },
+  {
+    "label": "TypeScript",
+    "file": "typescript-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+    "source_sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0"
+  },
+  {
+    "label": "Python",
+    "file": "python-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "source_sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  {
+    "label": "HTML",
+    "file": "html5-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+    "source_sha256": "34826e5b3315daadf4fa15f723a3c1d5ba4a89277bfd94e22ac4d7d3d54338c5"
+  },
+  {
+    "label": "CSS",
+    "file": "css3-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    "source_sha256": "36b7d94b657d571d3f94042acbf6a4c86a5301a222f83f4b4583ad2acf6e297d"
+  },
+  {
+    "label": "Java",
+    "file": "java-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+    "source_sha256": "7582e518a9c02425f97155e5a3bd39d1a3a7d421b78caf9c8df7443dad3edc5d"
+  },
+  {
+    "label": "C",
+    "file": "c-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
+    "source_sha256": "8cce48da91084256f15653e02bfd7046ccb34489d030cb1aa34dee766daad6b7"
+  },
+  {
+    "label": "C++",
+    "file": "cplusplus-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
+    "source_sha256": "7ff8253551235e3a6b002a7c2bd6e3190d85113a64fcb40f2254473caeb025d4"
+  },
+  {
+    "label": "C#",
+    "file": "csharp-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
+    "source_sha256": "7093478d0888e22a224b6fa832da6c9ffd14c433de8bd14aab0c1cb50925f3ee"
+  },
+  {
+    "label": "Go",
+    "file": "go-original-wordmark.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg",
+    "source_sha256": "d0400ee3d76ee43fa45e84a3b38b5710a9674969eb71af9d5bb59ed7916a3225"
+  },
+  {
+    "label": "Rust",
+    "file": "rust-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg",
+    "source_sha256": "16c6c6a98e990944fc5e1cc64cc8fc7b8be3a662ec4ee7951b7995d2e52f5e12"
+  },
+  {
+    "label": "PHP",
+    "file": "php-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
+    "source_sha256": "f22619a19c99a123e4678d71826f65f223721a739631dff46de39827c9ee0633"
+  },
+  {
+    "label": "Ruby",
+    "file": "ruby-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg",
+    "source_sha256": "74ead50b8f0f31e1b34618088bc0b0e16c04f1d4539039ef9358717d8505a63c"
+  },
+  {
+    "label": "Kotlin",
+    "file": "kotlin-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg",
+    "source_sha256": "5053c2e1288582d1ac2cfc1e807eabb7f6059b1aa2f7d04e5cf00063682a2cbe"
+  },
+  {
+    "label": "Swift",
+    "file": "swift-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg",
+    "source_sha256": "46b6e4abd3ab12c589b8e276295f9439e2869bc4788d918efbc6e76147e8a06e"
+  },
+  {
+    "label": "Dart",
+    "file": "dart-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg",
+    "source_sha256": "8dec3d6f6d92d5c8db294baf7ea89cbad5c3dd0f7fde5ca972ffc6cebf9b2d40"
+  },
+  {
+    "label": "SQL / PostgreSQL",
+    "file": "postgresql-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+    "source_sha256": "f220a436258ed014c512ba4f9c0de6b9e5c2c4b55331a0a29f8c7a1a12c36443"
+  },
+  {
+    "label": "Bash",
+    "file": "bash-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg",
+    "source_sha256": "8e9b1f859331c8d11571e77b1371c5d7ac7e380abfcd2f31160ed81dc37de403"
+  },
+  {
+    "label": "PowerShell",
+    "file": "powershell-original.svg",
+    "category": "language",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg",
+    "source_sha256": "f72bc9843ff04005045b659f1ce960d03ddf7707fe02cb5d3dee373914a6d750"
+  },
+  {
+    "label": "Hermes Agent",
+    "file": "hermesagent.svg",
+    "category": "ai",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg",
+    "source_sha256": "02d43c0a91fc2ee41f2684fc39613ff6687de29a4b079665bace5303671dd63b"
+  },
+  {
+    "label": "Antigravity",
+    "file": "antigravity-color.svg",
+    "category": "ai",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg",
+    "source_sha256": "652128cf55a28bb958563ee372d0bd00208d9e6fd446f523f77aafd811eef8ca"
+  },
+  {
+    "label": "Codex",
+    "file": "codex-color.svg",
+    "category": "ai",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg",
+    "source_sha256": "4a2f43ce46b5b6e3722c95088f88d26ef91e6a8c2e598e70642a1c54367386e4"
+  }
+]
