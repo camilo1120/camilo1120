@@ -4,9 +4,10 @@ Marca, BTL y prototipado digital.</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/face-kirby-poster-v3.png" />
-    <source media="(max-width: 600px)" srcset="assets/face-kirby-mobile-v3.gif" />
-    <img src="assets/face-kirby-desktop-v3.gif" alt="El rostro de Camilo parpadea y cambia a caracteres ASCII mientras una estrella pixel cruza detrás." width="100%" />
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/perfil-ascii-mobile.png" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/perfil-ascii-desktop.png" />
+    <source media="(max-width: 600px)" srcset="assets/perfil-ascii-mobile.gif" />
+    <img src="assets/perfil-ascii-desktop.gif" alt="Retrato de Camilo en caracteres ASCII con relieve y rotación suave. Panel al 20 de noviembre de 2026 con seis repositorios públicos y seis lenguajes detectados por GitHub." width="100%" />
   </picture>
 </div>
 
@@ -14,7 +15,7 @@ Marca, BTL y prototipado digital.</p>
   <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/face-kirby-poster-v3.png">Ficha sin movimiento</a>
+  <a href="assets/perfil-ascii-desktop.png">Ficha sin movimiento</a>
 </p>
 
 Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Creative Technologist. Uso IA generativa para explorar conceptos y acelerar prototipos web. Me identifico con el *vibe coding*: parto de una idea, construyo con asistencia de IA e itero sobre lo que puedo mostrar o probar.
@@ -84,6 +85,6 @@ Como integrante de **Vibra Creativa**:
 
 **¿Trabajas donde se encuentran las marcas y la tecnología?** [Conversemos en LinkedIn ↗](https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/).
 
-<sub>Retrato cartoon proporcionado por Camilo. Animación de la ficha y estrella de pixel art creadas para este perfil.</sub>
+<sub>Retrato ASCII a partir de mi fotografía. Panel inspirado en [GitHub Metrics](https://github.com/lowlighter/metrics). La gráfica cuenta en cuántos repositorios públicos aparece cada lenguaje al momento de la consulta.</sub>
 
 
