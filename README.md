@@ -4,8 +4,8 @@ Marca, BTL y prototipado digital.</p>
 
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/camilo-story-v3-mobile.gif" />
-    <img src="assets/camilo-story-v3-desktop.gif" alt="Los puntos forman mi rostro en ASCII, se dispersan, Kirby vuela sobre su estrella y aparece camilo1120." width="100%" />
+    <source media="(max-width: 600px)" srcset="assets/camilo-story-v4-mobile.gif" />
+    <img src="assets/camilo-story-v4-desktop.gif" alt="Los puntos forman mi rostro en ASCII, se dispersan, Kirby vuela en pixel art y aparece camilo1120." width="100%" />
   </picture>
 </div>
 
@@ -13,7 +13,7 @@ Marca, BTL y prototipado digital.</p>
   <a href="https://www.linkedin.com/in/camilo-andr%C3%A9s-%C3%A1lvarez-morera-ba32403b1/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="#user-content-proyectos-para-explorar">Explorar proyectos</a> &nbsp; / &nbsp;
   <a href="#user-content-reconocimientos">Reconocimientos</a> &nbsp; / &nbsp;
-  <a href="assets/camilo-story-v3-desktop-poster.png">Ficha sin movimiento</a>
+  <a href="assets/camilo-story-v4-desktop-poster.png">Ficha sin movimiento</a>
 </p>
 
 Soy **Camilo Andrés Álvarez Morera**, estudiante de Mercadeo y Publicidad y Creative Technologist. Uso IA generativa para explorar conceptos y acelerar prototipos web. Me identifico con el *vibe coding*: parto de una idea, construyo con asistencia de IA e itero sobre lo que puedo mostrar o probar.
@@ -124,3 +124,5 @@ Como integrante de **Vibra Creativa**:
 
 
 <sub>Kirby: fan art; personaje de Nintendo / HAL Laboratory. Animación de partículas generada en Python.</sub>
+
+<sub>Sprites de Kirby: Pieninja314; adaptación de sophiebaybey. [Fuente: Spelunky FYI](https://spelunky.fyi/mods/m/pieninja314s-kirby-updated/). Personaje de Nintendo / HAL Laboratory.</sub>
